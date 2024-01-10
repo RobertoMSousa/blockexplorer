@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.transactions {
+  display: inline-grid;
+}
+
+.transactionButton {
+  margin: 10px;
+  cursor: pointer;
+  
+}
